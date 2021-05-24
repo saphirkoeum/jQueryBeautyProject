@@ -168,3 +168,11 @@ nav form + a {
 footer img {
   width: 2rem;
 }
+footer a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+footer a:hover {
+  text-decoration: none;
+  color: #f6cd9e;
+}
