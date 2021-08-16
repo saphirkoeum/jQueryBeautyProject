@@ -1,5 +1,5 @@
 # jQueryBeautyProject
-May 2021 - Group Project with Clara, Laetitia &amp; Louiza
+DesCodeuses - May 2021 - Group Project with Clara, Laetitia &amp; Louiza
 
 Realisation d'un site e-commerce avec les instructions suivantes :
 
